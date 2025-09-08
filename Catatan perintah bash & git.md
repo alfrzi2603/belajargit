@@ -21,7 +21,7 @@
 |15.  `cp [sumber] [tujuan]` | Menyalin file/folder. |
 |16.  `mv [sumber] [tujuan]` | Memindahkan/rename file/folder. |
 
-## 🌱 Perintah Dasar Git (Setup Awal)
+## Perintah Dasar Git (Setup Awal)
 
 | Perintah | Fungsi |
 |----------|--------|
@@ -32,7 +32,7 @@
 | 5. `git config --list` | Menampilkan semua konfigurasi Git. |
 
 
-## 🔄 Workflow Git Dasar (Tambah File → Commit → Push)
+## Workflow Git Dasar (Tambah File → Commit → Push)
 
 | Perintah | Fungsi |
 |----------|--------|
